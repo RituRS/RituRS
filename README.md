@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RituRS
+- 👋 Hi, I’m Rituja Saha
 - 👀 I’m interested in Data Science and Artificial Intelligence
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on projects based on machine learning and data analysis
